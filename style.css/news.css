@@ -1,0 +1,23 @@
+
+
+#detailed_news{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+#detailed_news div img{
+    height: 400px;
+    width: 700px;
+    margin: auto;
+    object-fit: contain;
+}
+#detailed_news div p ,h3{
+    margin-left: 30px;
+
+}
+#detailed_news div{
+    width: 700px;
+    margin: auto;
+}
